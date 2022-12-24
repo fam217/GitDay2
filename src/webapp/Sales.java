@@ -1,0 +1,18 @@
+package webapp;
+
+public class Sales {
+
+    //15 % off
+    //20 % off
+
+    //...
+
+    //...
+
+    // more sale items added
+
+    // Added holiday sale 25%
+
+    //deals
+
+}
